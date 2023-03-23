@@ -10,6 +10,7 @@ layout: default
 - [Vice-Chair](/club-roles/executive-committee/Vice-Chair)
 - [Secretary](/club-roles/executive-committee/Secretary)
 - [Treasurer](/club-roles/executive-committee/Treasurer)
+- [Welfare Officer](/club-roles/executive-committee/Welfare-Officer)
 
 ## Support Roles
 

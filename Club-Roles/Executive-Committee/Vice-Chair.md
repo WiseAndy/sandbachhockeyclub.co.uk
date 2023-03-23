@@ -1,8 +1,8 @@
-### Appointment Process
-Voted by members at AGM, when vacant, or in each even numbered year.
+# Vice-Chair
 
-### Term 
-2 Years
+**Appointment Process:** Voted by members at AGM, when vacant, or in each even numbered year.
+
+**Term:** 2 Years
 
 ### Core Responsibilities
 - Sign on the club bank account

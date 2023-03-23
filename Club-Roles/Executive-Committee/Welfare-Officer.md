@@ -1,5 +1,6 @@
-### Appointment Process 
-Appointed by committee, following AGM, from available suitable candidates.
+# Welfare Officer
+
+**Appointment Process:** Appointed by committee, following AGM, from available suitable candidates.
 
 ### Role
 Everyone in hockey has a responsibility to safeguard and protect young people. The key role of the Welfare Officer is to support the club / organisation to promote good safeguarding practice across the club/ organisation, to be the named point of contact for all members of the Hockey Family, to implement England Hockey’s Safeguarding and Protecting Young People in Hockey Policy & Reporting Procedures where a concern has been raised.

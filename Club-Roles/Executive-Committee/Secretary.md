@@ -1,7 +1,7 @@
-### Appointment Process 
-Voted by members at AGM, when vacant, or in each even numbered year.
-### Term
-2 Years
+# Secretary
+
+**Appointment Process:** Voted by members at AGM, when vacant, or in each even numbered year.
+**Term:** 2 Years
 
 ### Core Responsibilities:
 - Sign on the club bank account
@@ -10,15 +10,15 @@ Voted by members at AGM, when vacant, or in each even numbered year.
 - Maintain club calendar
 - Sit on the disciplinary committee when required
 
-#### Weekly
+### Weekly
 - Receive and promptly respond to club correspondance
 
-#### Monthly
+### Monthly
 - Prepare and circulate the agenda for committe meetings
 - Record and circulate committee meetings minutes
 - Prepare and send membership update email.
 
-#### Annually
+### Annually
 - Send notice and member correspondance for AGM
 
 ### Works with

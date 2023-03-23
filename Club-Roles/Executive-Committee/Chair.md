@@ -2,13 +2,13 @@
 layout: default
 ---
 
-#### Appointment Process
-Voted by members at AGM, when vacant, or in each odd numbered year.
+# Chair
 
-#### Term
-2 Years
+**Appointment Process:** Voted by members at AGM, when vacant, or in each odd numbered year.
 
-#### Core Responsibilities
+**Term:** 2 Years
+
+### Core Responsibilities
 - Sign on the club bank account
 - Chair committee meetings 
 - Provide leadership on club direction and decision making

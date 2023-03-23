@@ -1,7 +1,7 @@
-### Appointment Process 
-Voted by members at AGM, when vacant, or in each odd numbered year.
-### Term 
-2 Years
+# Treasurer
+
+**Appointment Process:** Voted by members at AGM, when vacant, or in each odd numbered year.
+**Term:** 2 Years
 
 ### Core Responsibilities
 - Sign on the club bank account
