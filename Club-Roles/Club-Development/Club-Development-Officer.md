@@ -1,4 +1,10 @@
-Lead club development strategy and club improvement.
+---
+layout: default
+---
+
+# Club Development Officer
+
+- Lead club development strategy and club improvement.
 - Work with Head Coach to ensure club provides for player development
 - Work with the Umpire Officer to implement an umpire development program
 - Work with chair to implement a program of gradual improvement in club constitution and club processes.

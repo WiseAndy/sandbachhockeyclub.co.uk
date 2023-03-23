@@ -1,6 +1,14 @@
-Role type: Contracted by Club Chair, on behalf of Club Committee  
-Tenure: As contracted  
-Responsibilities:  
+---
+layout: default
+---
+
+# Contracted Coach
+
+**Role type:** Contracted by Club Chair, on behalf of Club Committee  
+**Tenure:** As contracted
+
+
+### Responsibilities
 - Provide, on behalf of the club, safe, fair and enjoyable hockey sessions to members.  
 - Deliver coaching sessions within the scheme set by the Head Coach / Coaching Director / Hockey Director.  
 - Work with the club Head Coach / Coaching Director / Hockey Director to inform the club coaching and technical program.  

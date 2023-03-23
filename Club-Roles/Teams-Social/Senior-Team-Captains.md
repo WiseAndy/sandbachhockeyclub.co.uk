@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+# Senior Team Captains
+
 ### Weekly
 - Complete GMS Teamsheet on Friday before each match
 - Complete GMS Result immediately after each match
