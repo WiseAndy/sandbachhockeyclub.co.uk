@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Vice-Chair
 
 **Appointment Process:** Voted by members at AGM, when vacant, or in each even numbered year.

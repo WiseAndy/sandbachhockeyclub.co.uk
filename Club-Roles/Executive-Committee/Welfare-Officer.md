@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welfare Officer
 
 **Appointment Process:** Appointed by committee, following AGM, from available suitable candidates.
