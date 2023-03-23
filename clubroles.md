@@ -6,10 +6,10 @@ layout: default
 
 ## Executive Committee
 
-- [Chair](/Executive Committee/Chair)
-- [Vice-Chair](/Executive Committee/Vice-Chair)
-- [Secretary](/Executive Committee/Secretary)
-- [Treasurer](/Executive Committee/Treasurer)
+- [Chair](/club-roles/executive-committee/Chair)
+- [Vice-Chair](/club-roles/executive-committee/Vice-Chair)
+- [Secretary](/club-roles/executive-committee/Secretary)
+- [Treasurer](/club-roles/executive-committee/Treasurer)
 
 ## Support Roles
 
