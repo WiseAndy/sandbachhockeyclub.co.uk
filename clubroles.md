@@ -29,6 +29,6 @@ layout: default
 
 ## Teams & Social
 
-- [Junior Coordinator](/club-roles/teams-social/)
-- [Senior Team Captains](/club-roles/teams-social/)
-- [Social Secretary](/club-roles/teams-social/)
+- [Junior Coordinator](/club-roles/teams-social/junior-coordinator)
+- [Senior Team Captains](/club-roles/teams-social/senior-team-captains)
+- [Social Secretary](/club-roles/teams-social/social-secretary)

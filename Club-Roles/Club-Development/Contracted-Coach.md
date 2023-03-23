@@ -10,8 +10,8 @@ layout: default
 
 ### Responsibilities
 - Provide, on behalf of the club, safe, fair and enjoyable hockey sessions to members.  
-- Deliver coaching sessions within the scheme set by the Head Coach / Coaching Director / Hockey Director.  
-- Work with the club Head Coach / Coaching Director / Hockey Director to inform the club coaching and technical program.  
+- Deliver coaching sessions within the scheme set by the Head Coach.  
+- Work with the Head Coachto inform the club coaching and technical program.  
 - To provide their own equipment to deliver their sessions.  
 - To provide a suitable replacement coach for a session, should they be unable to deliver it.  
 - Hold appropriate professional insurance.  
