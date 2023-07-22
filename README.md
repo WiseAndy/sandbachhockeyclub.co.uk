@@ -1,3 +1,3 @@
-# jekyll-base
+# sandbachhockey.co.uk
 
-Fresh Jekyll install from running "jekyll new ..."
+Built using Jekyll and NetlifyCMS.
