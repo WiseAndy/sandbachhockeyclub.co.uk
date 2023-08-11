@@ -12,19 +12,19 @@ There is a quick guide below for members, or full details are available on the f
 - [Payments & Agreement](/club-roles/umpires/payment.html)
 - [Getting into Umpiring Guide](/club-roles/umpires/development.html)
 
-### Quick Info
-- £20 per senior game.
-- You will be responsible for your own equipment and qualifications.
-- You will need to pass safeguarding training and DBS checks.
-- You will be a 3rd party contractor, not a club employee.
-
-### Quick Guide
-- Let us know by signing up [here](https://forms.gle/dDZ3EN6sVo3CcmeH7)
-- Sign up for [HockeyHub](https://hockeyhub.englandhockey.co.uk/officiating) and complete this [module](https://hockeyhub.englandhockey.co.uk/rules) 
-- Sign up for [EHO](https://www.englandhockey.co.uk/deliver/officiate/umpire/eho) and select Sandbach as your club.
-- Take a [level 1 umpiring course](https://hockeyhub.englandhockey.co.uk/events?search=+level+1)
-- Complete Club Safeguarding training and DBS checks
-- Umpire a few games for the club, and then book a umpire assessment to complete your Level 1 qualification.
+> ### Quick Info
+> - £20 per senior game.
+> - You will be responsible for your own equipment and qualifications.
+> - You will need to pass safeguarding training and DBS checks.
+> - You will be a 3rd party contractor, not a club employee.
+> 
+> ### Quick Guide
+> - Let us know by signing up [here](https://forms.gle/dDZ3EN6sVo3CcmeH7)
+> - Sign up for [HockeyHub](https://hockeyhub.englandhockey.co.uk/officiating) and complete this [module](https://hockeyhub.englandhockey.co.uk/rules) 
+> - Sign up for [EHO](https://www.englandhockey.co.uk/deliver/officiate/umpire/eho) and select Sandbach as your club.
+> - Take a [level 1 umpiring course](https://hockeyhub.englandhockey.co.uk/events?search=+level+1)
+> - Complete Club Safeguarding training and DBS checks
+> - Umpire a few games for the club, and then book a umpire assessment to complete your Level 1 qualification.
 
 ## Registering as a club umpire
 To register as a club umpire, please complete the form here [https://forms.gle/dDZ3EN6sVo3CcmeH7](https://forms.gle/dDZ3EN6sVo3CcmeH7) and we will be in touch ASAP.
