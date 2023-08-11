@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Sandbach Club Umpires
+
 From the start of the 2023/24 season, the club has decided to start paying all senior club umpires. The club urgently needs to expand the number of senior umpires at the club and players are encouraged to take up umpiring to ensure the club can fulfil our games this season.
 
 There is a quick guide below for members, or full details are available on the following pages.
