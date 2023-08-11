@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Umpires
+permalink: /club-roles/umpires/
 ---
 
 # Sandbach Club Umpires
