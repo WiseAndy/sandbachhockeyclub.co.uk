@@ -8,7 +8,7 @@ Depending on how seriously you want to take your umpiring, there is a whole regi
 
 ### Getting Started
 - Let us know you are interested in umpiring by completing the form here [https://forms.gle/dDZ3EN6sVo3CcmeH7](https://forms.gle/dDZ3EN6sVo3CcmeH7) or by contacting your team captain or a member of the committee
-- Sign up for England Hockey Hockey Hub https://hockeyhub.englandhockey.co.uk/officiating you can find (almost) everything you need here they even have a 'getting into umpiring' section [https://www.englandhockey.co.uk/deliver/officiate/umpire/getting-started](https://www.englandhockey.co.uk/deliver/officiate/umpire/getting-started)
+- Sign up for England Hockey Hockey Hub [https://hockeyhub.englandhockey.co.uk/officiating](https://hockeyhub.englandhockey.co.uk/officiating) you can find (almost) everything you need here they even have a 'getting into umpiring' section [https://www.englandhockey.co.uk/deliver/officiate/umpire/getting-started](https://www.englandhockey.co.uk/deliver/officiate/umpire/getting-started)
 - Run through the 'Learn the rules' module [https://hockeyhub.englandhockey.co.uk/rules](https://hockeyhub.englandhockey.co.uk/rules), complete the exam and download your certificate (you might need it later depending on how far you want to take it)
 - We will be in touch to say welcome and talk through any questions you might have.
 - Our Welfare Officer will be in touch to organise completion of safeguarding training [https://hockeyhub.englandhockey.co.uk/safeguarding_awareness](https://hockeyhub.englandhockey.co.uk/safeguarding_awareness) and a DBS check.
