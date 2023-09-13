@@ -8,4 +8,3 @@ url: "https://www.sandbachhockeyclub.com" # the base hostname & protocol for you
 
 # Build settings
 markdown: kramdown
-exclude: [docs/]
