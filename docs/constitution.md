@@ -1,5 +1,5 @@
-### Sandbach Hockey Club Constitution
-ratified at EGM - 14th July 2019
+# Sandbach Hockey Club Constitution
+Ratified at EGM - 14th July 2019
 
 ## 1 Name and Location
 
@@ -75,9 +75,7 @@ _Other Officers (appointed by Management Committee) as appropriate – examples 
 2. The Executive Officers shall be elected at the Annual General Meeting of the Club by Club Members.
 
 3.
-	- a. Executive Officers must be Club Members aged 18 or above
-	
-	or
+	- a. Executive Officers must be Club Members aged 18 or above. Unless nominated under clause 5.3b
 	
 	- b. Executive Officers may be selected from a list of suitable candidates, proposed by the outgoing committee. Candidates should ideally have a relationship with the club i.e. a player parent, and have personal skills that would contribute to the execution of the proposed role.
 	
