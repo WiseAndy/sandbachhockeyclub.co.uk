@@ -1,3 +1,4 @@
+# Club Selection Policy
 For the 2023/24 season, team selection will be done by a club selection committee rather than individual captains. The goal is to improve selection, communication and the player development pathway. This policy sets out how selection will work across the entire club.
 
 ## A. Objectives
