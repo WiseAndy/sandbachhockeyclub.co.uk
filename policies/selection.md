@@ -1,6 +1,15 @@
 # Club Selection Policy
 For the 2023/24 season, team selection will be done by a club selection committee rather than individual captains. The goal is to improve selection, communication and the player development pathway. This policy sets out how selection will work across the entire club.
 
+#### Quick guide for Seniors
+- We will put availability requests on Spond well in advance of the games.
+- Please complete your availability in Spond as early as possible.
+- Please complete your availability for all games, regardless of which team they are for.
+- We won't chase for availability, if you don't let us know you are available you might not get a game.
+- About once a month, the selection committee will meet to create squads for each game.
+- Final squads will be published as early as possible as Spond events so you can see your upcoming games.
+- We know circumstances change, if you have a late change of availability then please contact the captain of your usual team.
+
 ## A. Objectives
 
 1. Selection to be done by the club selection committee. 
