@@ -2,10 +2,10 @@
 
 ## Executive Committee
 
-- [Chair](/club-roles/executive-committee/Chair) - Andrew Wise - email: [chair@sandbachhockeyclub.co.uk](chair@sandbachhockeyclub.co.uk)
+- [Chair](/club-roles/executive-committee/Chair) - Andrew Wise - email: [chair@sandbachhockeyclub.co.uk](chair@sandbachhockeyclub.co.uk :ignore)
 - [Vice-Chair](/club-roles/executive-committee/Vice-Chair) - Della Latham
-- [Secretary](/club-roles/executive-committee/Secretary) - Christine Harding - email: [secretary@sandbachhockeyclub.co.uk](secretary@sandbachhockeyclub.co.uk)
-- [Treasurer](/club-roles/executive-committee/Treasurer) - Gail Laycock - email: [finance@sandbachhockeyclub.co.uk](finance@sandbachhockeyclub.co.uk)
+- [Secretary](/club-roles/executive-committee/Secretary) - Christine Harding - email: [secretary@sandbachhockeyclub.co.uk](secretary@sandbachhockeyclub.co.uk :ignore)
+- [Treasurer](/club-roles/executive-committee/Treasurer) - Gail Laycock - email: [finance@sandbachhockeyclub.co.uk](finance@sandbachhockeyclub.co.uk :ignore)
 - [Welfare Officer](/club-roles/executive-committee/Welfare-Officer) - Phillipa Pordes
 
 ## Support Roles
