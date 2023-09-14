@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Volunteer Coach
 
 ### Responsibilities 

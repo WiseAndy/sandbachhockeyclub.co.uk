@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Contracted Coach
 
 **Role type:** Contracted by Club Chair, on behalf of Club Committee  

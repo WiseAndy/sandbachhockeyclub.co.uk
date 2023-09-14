@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Fixtures Officer
 - Manage school pitch relationships on behalf of club
 - Ensure pitch is booked as required by club

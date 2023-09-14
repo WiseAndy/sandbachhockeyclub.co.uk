@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Communication Officer
 - Assist Secretary in producing monthly member updates
 - Manage club social media accounts

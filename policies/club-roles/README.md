@@ -1,29 +1,25 @@
----
-layout: default
----
-
 # Club Roles
 
 ## Executive Committee
 
-- [Chair](/club-roles/executive-committee/Chair)
-- [Vice-Chair](/club-roles/executive-committee/Vice-Chair)
-- [Secretary](/club-roles/executive-committee/Secretary)
-- [Treasurer](/club-roles/executive-committee/Treasurer)
-- [Welfare Officer](/club-roles/executive-committee/Welfare-Officer)
+- [Chair](/club-roles/executive-committee/Chair) - Andrew Wise - email: [chair@sandbachhockeyclub.co.uk](chair@sandbachhockeyclub.co.uk)
+- [Vice-Chair](/club-roles/executive-committee/Vice-Chair) - Della Latham
+- [Secretary](/club-roles/executive-committee/Secretary) - Christine Harding - email: [secretary@sandbachhockeyclub.co.uk](secretary@sandbachhockeyclub.co.uk)
+- [Treasurer](/club-roles/executive-committee/Treasurer) - Gail Laycock - email: [finance@sandbachhockeyclub.co.uk](finance@sandbachhockeyclub.co.uk)
+- [Welfare Officer](/club-roles/executive-committee/Welfare-Officer) - Phillipa Pordes
 
 ## Support Roles
 
-- [Fixtures Officer](/club-roles/support-roles/fixtures-officer)
-- [Umpires Officer](/club-roles/support-roles/umpires-officer)
-- [Membership Officer](/club-roles/support-roles/membership-officer)
-- [Communication Officer](/club-roles/support-roles/communication-officer)
-- [Fundraising Officer](/club-roles/support-roles/fundraising-officer)
+- [Fixtures Officer](/club-roles/support-roles/fixtures-officer) - Ellie-May Hanant
+- [Umpires Officer](/club-roles/support-roles/umpires-officer) - Ed Deane
+- [Membership Officer](/club-roles/support-roles/membership-officer) - Elaine Mundey
+- [Communication Officer](/club-roles/support-roles/communication-officer) - Grace Morris
+- [Fundraising Officer](/club-roles/support-roles/fundraising-officer) - _Vacancy_
 
 ## Club Development
 
-- [Head Coach](/club-roles/club-development/head-coach)
-- [Club Development Officer](/club-roles/club-development/club-development-officer)
+- [Head Coach](/club-roles/club-development/head-coach) - Ben Guildford
+- [Club Development Officer](/club-roles/club-development/club-development-officer) - _Vacancy_
 - [Contracted Coach](/club-roles/club-development/contracted-coach)
 - [Volunteer Coach](/club-roles/club-development/volunteer-coach)
 

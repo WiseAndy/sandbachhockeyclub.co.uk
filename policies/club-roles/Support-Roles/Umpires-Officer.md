@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Umpires Officer
 
 - Find and assign umpires to each club game that requires umpires, following league guidance on appropriate umpire qualifications for each game.

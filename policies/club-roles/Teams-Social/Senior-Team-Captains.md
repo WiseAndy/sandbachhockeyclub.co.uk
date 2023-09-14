@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Senior Team Captains
 
 ### Weekly
