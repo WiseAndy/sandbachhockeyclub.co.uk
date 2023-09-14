@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Club Development Officer
 
 - Lead club development strategy and club improvement.

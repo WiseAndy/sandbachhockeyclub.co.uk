@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Treasurer
 
 **Appointment Process:** Voted by members at AGM, when vacant, or in each odd numbered year.

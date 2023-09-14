@@ -9,7 +9,7 @@ For the 2023/24 season, team selection will be done by a club selection committe
 - About once a month, the selection committee will meet to create squads for each game.
 - Final squads will be published as early as possible as Spond events so you can see your upcoming games.
 - We know circumstances change, if you have a late change of availability then please contact the captain of your usual team.
-
+- 
 ## A. Objectives
 
 1. Selection to be done by the club selection committee. 

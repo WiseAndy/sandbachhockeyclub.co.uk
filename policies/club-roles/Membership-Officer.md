@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Membership Officer
 - Ensure membership information is up to date and accurate
 - Ensure new members are added to club systems/groups as appropriate

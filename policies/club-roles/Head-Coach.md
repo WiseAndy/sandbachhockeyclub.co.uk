@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Head Coach
 
 **Role type:** Appointed by Executive committee  
