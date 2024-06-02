@@ -1,5 +1,5 @@
 # Sandbach Hockey Club Constitution
-Ratified at EGM - 14th July 2019
+Ratified at AGM - 21st April 2024
 
 ## 1 Name and Location
 
@@ -105,13 +105,11 @@ _Other Officers (appointed by Management Committee) as appropriate – examples 
 
 6. The Treasurer in consultation with the Committee shall be responsible for recording all financial income and expenditure of the Club and for presenting audited accounts at each Annual General Meeting of the Club.
 
-7.  The committee shall consist of at least 2 men and 2 women, if this balance is not met, additional members must be co-opted. These members have full voting rights.
+7. The Committee shall have powers to appoint sub-committees as necessary and to co-opt advisers who may be non-club members invited to advise on specialist subjects.
 
-8. The Committee shall have powers to appoint sub-committees as necessary and to co-opt advisers who may be non-club members invited to advise on specialist subjects.
+8. The Committee shall have powers to elect Honorary Members, persons not otherwise eligible for membership, who have, or will have a significant role in the management and running of the Club and/or its facilities.
 
-9. The Committee shall have powers to elect Honorary Members, persons not otherwise eligible for membership, who have, or will have a significant role in the management and running of the Club and/or its facilities.
-
-10. An elected Committee member ceases to be such if he or she ceases to be a member of the club, resigns by written notice, or is removed by the Committee for good cause after the member concerned has been given the chance of putting their case to the Committee.  Appeal against removal may be made to the Appeals Committee.  The Committee shall fairly decide time limits and formalities for these steps.
+9. An elected Committee member ceases to be such if he or she ceases to be a member of the club, resigns by written notice, or is removed by the Committee for good cause after the member concerned has been given the chance of putting their case to the Committee.  Appeal against removal may be made to the Appeals Committee.  The Committee shall fairly decide time limits and formalities for these steps.
 
 ## 7 Payments or Benefits
 
